@@ -1,6 +1,7 @@
   /// <reference types="cypress" />
   //address that is where home page located
   //.. means --> integration/
+  //Framework
   import HomePage from '../PageObjects/HomePage'
   import Product from '../PageObjects/Product'
   import Checkout from '../Pageobjects/Checkout'
